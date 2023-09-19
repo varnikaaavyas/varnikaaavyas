@@ -2,7 +2,7 @@
 
 I'm passionate about **Data Science**, **Analytics**, **Machine Learning**, and everything related to uncovering insights from data! 📊
 
-## 🔍 About Me
+# 🔍 About Me
 
 - 🎓 Data Science and Analytics student, eager to explore new challenges.
 - 💡 I believe that data has the power to transform businesses and drive innovation.
