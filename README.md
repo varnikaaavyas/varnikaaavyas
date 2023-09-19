@@ -1,9 +1,3 @@
-### Hi there, I'm Varnika 👋
-
-<!--
-**varnikaaavyas/varnikaaavyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # 👋 Hi, I'm Shashwat!
 
 I'm passionate about **Data Science**, **Analytics**, **Machine Learning**, and everything related to uncovering insights from data! 📊
@@ -34,5 +28,3 @@ I'm eager to collaborate on **Data Analysis** and **Visualization** projects. If
 - 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
 
 Let's connect and explore the data world together! Feel free to reach out, whether it's for collaboration, sharing knowledge, or just to say hello. 🚀
-.
--->
