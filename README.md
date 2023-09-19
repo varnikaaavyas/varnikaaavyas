@@ -4,10 +4,10 @@ I'm passionate about **Data Science**, **Analytics**, **Machine Learning**, and 
 
 🔍 About Me
 
-- 🎓 Data Science and Analytics student, eager to explore new challenges.
-- 💡 I believe that data has the power to transform businesses and drive innovation.
-- 🧠 Currently focusing on expanding my knowledge in **Machine Learning**.
-- 🌟 Enthusiastic about continuous learning and staying updated with the latest trends in the field.
+- Data Science and Analytics student, eager to explore new challenges.
+- I believe that data has the power to transform businesses and drive innovation.
+- Currently focusing on expanding my knowledge in **Machine Learning**.
+- Enthusiastic about continuous learning and staying updated with the latest trends in the field.
 
 🛠️ Skills
 
@@ -23,6 +23,6 @@ I'm eager to collaborate on **Data Analysis** and **Visualization** projects. If
 
 📫 How to Reach Me
 
-- 📧 Email: varnikavyas@gmail.com
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/varnikavyas/)
+- Email: varnikavyas@gmail.com
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/varnikavyas/)
 
